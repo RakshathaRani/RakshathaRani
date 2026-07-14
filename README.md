@@ -87,11 +87,13 @@ MCA Graduate • Python Developer • Backend Developer • AI & Machine Learnin
 
 ## Artificial Intelligence & Machine Learning
 
-- Machine Learning
-- Artificial Intelligence
-- Signal Processing
-- Prompt Engineering
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-blue?style=for-the-badge)
 
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-red?style=for-the-badge)
+
+![Signal Processing](https://img.shields.io/badge/Signal_Processing-green?style=for-the-badge)
+
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-orange?style=for-the-badge)
 ---
 
 # 📂 Featured Projects
