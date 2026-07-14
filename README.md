@@ -41,85 +41,58 @@ MCA Graduate • Python Developer • Backend Developer • AI & Machine Learnin
 
 ---
 
-# 🚀 Tech Stack
+# 💻 Technical Skills
 
-## 💻 Languages
+## Programming Languages
 
-<p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=python"/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=java"/>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=c"/>
-
-</p>
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ---
 
-## 🌐 Backend
+## Web Development
 
-<p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=django"/>
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=flask"/>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-</p>
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
----
-
-## 🎨 Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=javascript"/>
-
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
-
-</p>
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
 
-## 🗄 Database
+## Database
 
-<p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-</p>
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
 ---
 
-## 🤖 Machine Learning
+## Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+---
+
+## Artificial Intelligence & Machine Learning
 
 - Machine Learning
 - Artificial Intelligence
-- NumPy
-- Pandas
-- Scikit-Learn
-- Matplotlib
 - Signal Processing
-
----
-
-## 🛠 Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=pycharm"/>
-
-</p>
+- Prompt Engineering
 
 ---
 
@@ -203,17 +176,6 @@ Project guidance provided by **Dr. Anand Ghuli**.
 - Oracle SQL
 - Prompt Engineering
 - Cloud Computing
-
----
-
-# 🌱 Currently Exploring
-
-- Advanced Python
-- Django REST Framework
-- Machine Learning
-- Deep Learning
-- Artificial Intelligence
-- Backend System Design
 
 ---
 
