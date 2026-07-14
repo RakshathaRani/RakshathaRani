@@ -22,29 +22,19 @@ I'm looking for opportunities as a Software Developer, Python Developer, or AI E
 
 💻 Languages
 
-- Python
-- Java
-- C
-- R
+Python | Java | C | R
 
 🌐 Web Development
 
-- HTML
-- CSS
-- JavaScript
-- Django
-- Flask
+HTML | CSS | JavaScript | Django | Flask
 
 🗄 Database
 
-- SQL
-- MySQL
+SQL | MySQL
 
 🛠 Tools
 
-- Git
-- GitHub
-- VS Code
+Git | GitHub | VS Code
 
 ---
 
