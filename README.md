@@ -16,7 +16,7 @@ Building intelligent software solutions using Python, Django, Machine Learning, 
 <img src="https://img.shields.io/badge/LinkedIn-Rakshatha_Rani-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-![Open To](https://img.shields.io/badge/Open%20To-Python%20Developer-success?style=for-the-badge)
+<img src="https://img.shields.io/badge/Open%20To-Python%20Developer-success?style=for-the-badge">
 
 </p>
 
