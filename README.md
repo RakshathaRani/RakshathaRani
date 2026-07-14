@@ -203,6 +203,12 @@ I enjoy building reliable software using Python and modern backend technologies.
 
 <p align="center">
 
-### ⭐ Thanks for visiting my GitHub Profile! ⭐
+## ⭐ Thanks for Visiting!
+
+If you like my projects, consider giving them a ⭐.
+
+I'm always excited to learn, collaborate, and contribute to meaningful software and AI projects.
+
+Happy Coding! 🚀
 
 </p>
