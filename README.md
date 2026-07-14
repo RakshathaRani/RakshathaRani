@@ -1,22 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rakshatha Rani</h1>
 
-<h3 align="center">MCA Graduate | Python Developer | AI & Machine Learning Enthusiast</h3>
+<h3 align="center">
+MCA Graduate • Python Developer • Backend Developer • AI & Machine Learning Enthusiast
+</h3>
 
 <p align="center">
-Building intelligent software solutions using Python, Django, Machine Learning, and Signal Processing.
-</p>
 
-<p align="center">
-
-<a href="https://github.com/RakshathaRani">
-<img src="https://img.shields.io/badge/GitHub-RakshathaRani-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://www.linkedin.com/in/rakshatha-rani-90a11a2a3/">
-<img src="https://img.shields.io/badge/LinkedIn-Rakshatha_Rani-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<img src="https://img.shields.io/badge/Open%20To-Python%20Developer-success?style=for-the-badge">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=2F81F7&center=true&vCenter=true&width=950&lines=Python+Developer;Backend+Developer;AI+%26+Machine+Learning+Enthusiast;Django+Developer;Open+to+Software+Developer+Opportunities)](https://git.io/typing-svg)
 
 </p>
 
@@ -24,96 +14,116 @@ Building intelligent software solutions using Python, Django, Machine Learning, 
 
 # 👩‍💻 About Me
 
-🎓 MCA Graduate
+🎓 MCA Graduate from Karnataka, India
 
-💻 Python Developer
+💻 Passionate Python & Backend Developer
 
-🤖 AI & Machine Learning Enthusiast
+🤖 Interested in Artificial Intelligence, Machine Learning and Signal Processing
 
-🌐 Interested in Backend Development, Artificial Intelligence, Machine Learning, and Signal Processing.
+🧠 Developed an EEG-Based Audio Reconstruction research project using Machine Learning.
 
-🚀 Passionate about developing software solutions that solve real-world problems.
+🚀 Looking for opportunities as
+
+- Python Developer
+- Backend Developer
+- Software Developer
+- AI & Machine Learning Engineer
+
+🌱 Currently Learning
+
+- Advanced Python
+- Django
+- REST APIs
+- Machine Learning
+- Backend Development
 
 📍 Vijayapura, Karnataka, India
 
 ---
 
-# 🎯 Career Objective
+# 🚀 Tech Stack
 
-I am seeking opportunities as a **Python Developer**, **Software Developer**, **Backend Developer**, or **Junior AI/ML Developer**, where I can contribute to real-world software development while continuously learning and growing as an engineer.
+## 💻 Languages
 
----
+<p>
 
-# 💻 Technical Skills
+<img src="https://skillicons.dev/icons?i=python"/>
 
-## Programming Languages
+<img src="https://skillicons.dev/icons?i=java"/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://skillicons.dev/icons?i=c"/>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+</p>
 
 ---
 
-## Web Development
+## 🌐 Backend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<p>
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=django"/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://skillicons.dev/icons?i=flask"/>
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+</p>
 
 ---
 
-## Database
+## 🎨 Frontend
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=html"/>
 
----
+<img src="https://skillicons.dev/icons?i=css"/>
 
-## Tools
+<img src="https://skillicons.dev/icons?i=javascript"/>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+</p>
 
 ---
 
-## Artificial Intelligence & Machine Learning
+## 🗄 Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+---
+
+## 🤖 Machine Learning
 
 - Machine Learning
 - Artificial Intelligence
+- NumPy
+- Pandas
+- Scikit-Learn
+- Matplotlib
 - Signal Processing
-- Prompt Engineering
 
 ---
 
-# 🎓 Education
+## 🛠 Tools
 
-### Master of Computer Applications (MCA)
+<p>
 
-Completed
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=pycharm"/>
+
+</p>
 
 ---
 
-### Bachelor of Computer Applications (BCA)
-
-Completed
-
----
-
-# 🚀 Featured Projects
+# 📂 Featured Projects
 
 ## 🚌 Smart Bus Ticketing & Reservation System
 
@@ -121,14 +131,16 @@ Completed
 
 Python • Django • MySQL • HTML • CSS • JavaScript
 
-**Highlights**
+### Features
 
 - User Authentication
 - Bus Search
-- Seat Booking
+- Seat Reservation
+- Booking History
 - Payment Simulation
 - PDF Ticket Generation
-- Django Admin Dashboard
+- Admin Dashboard
+- Booking Cancellation
 
 🔗 Repository
 
@@ -136,20 +148,33 @@ https://github.com/RakshathaRani/Smart-Bus-Ticketing-Reservation-System
 
 ---
 
-## 🧠 EEG-Based Reconstruction of Lion Sounds Using Ridge Regression, Grey Wolf Optimization and Griffin-Lim Audio Synthesis
+## 🦁 EEG-Based Reconstruction of Lion Sounds Using Ridge Regression, Grey Wolf Optimization and Griffin-Lim Audio Synthesis
 
-**Tech Stack**
+### MCA Final Year Research Project
 
-Python • PyQt5 • Ridge Regression • Grey Wolf Optimization • Signal Processing
+Developed an intelligent desktop application capable of reconstructing realistic lion sounds from EEG-inspired signal processing using Machine Learning techniques.
 
-**Highlights**
+### Key Highlights
 
-- EEG Signal Synthesis
-- Audio Reconstruction
-- Machine Learning
-- Interactive Desktop Dashboard
+- EEG Signal Processing
+- Feature Extraction
+- Ridge Regression
+- Grey Wolf Optimization
+- Griffin-Lim Audio Synthesis
+- Desktop GUI
+- Audio Playback
 - Performance Evaluation
-- Research Project
+- Batch Processing
+
+### Repository Includes
+
+- Complete Documentation
+- GUI Screenshots
+- Project Workflow
+- Sample Outputs
+- Performance Metrics
+
+> Source code and research report are intentionally not included because the associated research paper is currently under editorial review.
 
 🔗 Repository
 
@@ -157,23 +182,38 @@ https://github.com/RakshathaRani/EEG-Based-Reconstruction-of-Lion-Sounds-Using-R
 
 ---
 
-# 🏆 Certifications
+# 📄 Research
+
+## EEG-Based Reconstruction of Lion Sounds Using Ridge Regression, Grey Wolf Optimization and Griffin-Lim Audio Synthesis
+
+**Status**
+
+📑 Research Paper currently under **Editorial Review**
+
+This work was completed as my MCA Final Year Research Project.
+
+Project guidance provided by **Dr. Anand Ghuli**.
+
+---
+
+# 🎓 Certifications
 
 - Artificial Intelligence Internship
 - Django Full Stack Development
 - Oracle SQL
-- Cloud Computing
 - Prompt Engineering
+- Cloud Computing
 
 ---
 
-# 🌱 Currently Learning
+# 🌱 Currently Exploring
 
 - Advanced Python
-- Django
+- Django REST Framework
 - Machine Learning
+- Deep Learning
 - Artificial Intelligence
-- Backend Development
+- Backend System Design
 
 ---
 
@@ -181,9 +221,11 @@ https://github.com/RakshathaRani/EEG-Based-Reconstruction-of-Lion-Sounds-Using-R
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RakshathaRani&show_icons=true&theme=github_dark"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=RakshathaRani&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakshathaRani&layout=compact&theme=github_dark"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakshathaRani&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -193,13 +235,23 @@ https://github.com/RakshathaRani/EEG-Based-Reconstruction-of-Lion-Sounds-Using-R
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=RakshathaRani&theme=github-dark"/>
+<img src="https://streak-stats.demolab.com?user=RakshathaRani&theme=github-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📫 Contact Me
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RakshathaRani&theme=algolia&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
 
 📧 **Email**
 
@@ -209,22 +261,20 @@ ranirakshatha@gmail.com
 
 https://www.linkedin.com/in/rakshatha-rani-90a11a2a3/
 
-🌐 **GitHub**
+🐙 **GitHub**
 
 https://github.com/RakshathaRani
 
 ---
 
-# 💬 Quote
+# 💡 Career Objective
 
-> *"Continuous learning, consistency, and curiosity drive innovation."*
+I enjoy building reliable software using Python and modern backend technologies. My interests include Machine Learning, Artificial Intelligence, backend development, and solving real-world problems through technology. I am continuously learning and seeking opportunities where I can contribute while growing as a software engineer.
 
 ---
 
 <p align="center">
 
-⭐ Thank you for visiting my GitHub Profile ⭐
-
-If you like my work, feel free to explore my repositories and connect with me on LinkedIn.
+### ⭐ Thanks for visiting my GitHub Profile! ⭐
 
 </p>
