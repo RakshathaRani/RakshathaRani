@@ -64,6 +64,13 @@ Research project focused on reconstructing lion sounds using EEG signal processi
 - Cloud Computing
 - Prompt Engineering
 
+## 🌱 Currently Working On
+
+- AI & Machine Learning
+- Python Projects
+- Django Applications
+- Software Development
+
 ---
 
 ## Contact
