@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=RakshathaRani&style=for-the-badge&color=blue)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Python+Developer;Backend+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Rakshatha Rani</h1>
 
 <h3 align="center">MCA Graduate | Python Developer | Backend Developer | AI & Machine Learning Enthusiast</h3>
