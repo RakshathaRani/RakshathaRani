@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rakshatha Rani</h1>
 
-<h3 align="center">MCA Graduate | Python Developer | Backend Developer | AI & Machine Learning Enthusiast
+<h3 align="center">MCA Graduate | Python Developer | Backend Developer | AI & Machine Learning Enthusiast</h3>
+
 <p align="center">
 Building intelligent software solutions using Python, Django, Machine Learning, and Signal Processing.
 </p>
