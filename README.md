@@ -5,9 +5,7 @@ MCA Graduate • Python Developer • Backend Developer • AI & Machine Learnin
 </h3>
 
 <p align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=2F81F7&center=true&vCenter=true&width=950&lines=Python+Developer;Backend+Developer;AI+%26+Machine+Learning+Enthusiast;Django+Developer;Open+to+Software+Developer+Opportunities)](https://git.io/typing-svg)
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=2F81F7&center=true&vCenter=true&width=950&lines=Python+Developer;Backend+Developer;AI+%26+Machine+Learning+Enthusiast;Django+Developer;Open+to+Software+Developer+Opportunities" />
 </p>
 
 ---
