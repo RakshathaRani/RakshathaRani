@@ -1,4 +1,28 @@
-# Hi 👋 I'm Rakshatha Rani
+<h1 align="center">Hi 👋, I'm Rakshatha Rani</h1>
+
+<h3 align="center">MCA Graduate | Python Developer | AI & Machine Learning Enthusiast</h3>
+
+<p align="center">
+Building intelligent software solutions using Python, Django, Machine Learning, and Signal Processing.
+</p>
+
+<p align="center">
+
+<a href="https://github.com/RakshathaRani">
+<img src="https://img.shields.io/badge/GitHub-RakshathaRani-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/rakshatha-rani-90a11a2a3/">
+<img src="https://img.shields.io/badge/LinkedIn-Rakshatha_Rani-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<img src="https://img.shields.io/badge/Open%20To-Python%20Developer-success?style=for-the-badge">
+
+</p>
+
+---
+
+# 👩‍💻 About Me
 
 🎓 MCA Graduate
 
@@ -6,61 +30,134 @@
 
 🤖 AI & Machine Learning Enthusiast
 
+🌐 Interested in Backend Development, Artificial Intelligence, Machine Learning, and Signal Processing.
+
+🚀 Passionate about developing software solutions that solve real-world problems.
+
 📍 Vijayapura, Karnataka, India
 
 ---
 
-## About Me
+# 🎯 Career Objective
 
-I'm passionate about developing software solutions using Python, Django, Flask, and Machine Learning.
-
-I'm looking for opportunities as a Software Developer, Python Developer, or AI Engineer where I can apply my technical skills to solve real-world problems.
+I am seeking opportunities as a **Python Developer**, **Software Developer**, **Backend Developer**, or **Junior AI/ML Developer**, where I can contribute to real-world software development while continuously learning and growing as an engineer.
 
 ---
 
-## Tech Stack
+# 💻 Technical Skills
 
-💻 Languages
+## Programming Languages
 
-Python | Java | C | R
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-🌐 Web Development
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-HTML | CSS | JavaScript | Django | Flask
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-🗄 Database
-
-SQL | MySQL
-
-🛠 Tools
-
-Git | GitHub | VS Code
-
-🤖 AI
-
-Machine Learning | Artificial Intelligence  | Prompt Engineering
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ---
 
-## Featured Projects
+## Web Development
 
-### Smart Bus Ticketing System
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-Python • Flask • MySQL
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-A web-based ticket booking platform with authentication, booking, payment simulation, and PDF ticket generation.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### EEG-Based Reconstruction of Lion Sounds
-
-Python • Machine Learning • Ridge Regression • Grey Wolf Optimizer
-
-Research project focused on reconstructing lion sounds using EEG signal processing.
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
 
-## Certifications
+## Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+---
+
+## Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+---
+
+## Artificial Intelligence & Machine Learning
+
+- Machine Learning
+- Artificial Intelligence
+- Signal Processing
+- Prompt Engineering
+
+---
+
+# 🎓 Education
+
+### Master of Computer Applications (MCA)
+
+Completed
+
+---
+
+### Bachelor of Computer Applications (BCA)
+
+Completed
+
+---
+
+# 🚀 Featured Projects
+
+## 🚌 Smart Bus Ticketing & Reservation System
+
+**Tech Stack**
+
+Python • Django • MySQL • HTML • CSS • JavaScript
+
+**Highlights**
+
+- User Authentication
+- Bus Search
+- Seat Booking
+- Payment Simulation
+- PDF Ticket Generation
+- Django Admin Dashboard
+
+🔗 Repository
+
+https://github.com/RakshathaRani/Smart-Bus-Ticketing-Reservation-System
+
+---
+
+## 🧠 EEG-Based Reconstruction of Lion Sounds Using Ridge Regression, Grey Wolf Optimization and Griffin-Lim Audio Synthesis
+
+**Tech Stack**
+
+Python • PyQt5 • Ridge Regression • Grey Wolf Optimization • Signal Processing
+
+**Highlights**
+
+- EEG Signal Synthesis
+- Audio Reconstruction
+- Machine Learning
+- Interactive Desktop Dashboard
+- Performance Evaluation
+- Research Project
+
+🔗 Repository
+
+https://github.com/RakshathaRani/EEG-Based-Reconstruction-of-Lion-Sounds-Using-Ridge-GWO-Realistic-Audio-Synthesis
+
+---
+
+# 🏆 Certifications
 
 - Artificial Intelligence Internship
 - Django Full Stack Development
@@ -68,17 +165,66 @@ Research project focused on reconstructing lion sounds using EEG signal processi
 - Cloud Computing
 - Prompt Engineering
 
-## 🌱 Currently Working On
+---
 
-- AI & Machine Learning
-- Python Projects
-- Django Applications
-- Software Development
+# 🌱 Currently Learning
+
+- Advanced Python
+- Django
+- Machine Learning
+- Artificial Intelligence
+- Backend Development
 
 ---
 
-## Contact
+# 📊 GitHub Statistics
 
-📧 ranirakshatha@gmail.com
+<p align="center">
 
-💼 LinkedIn: https://www.linkedin.com/in/rakshatha-rani-90a11a2a3/
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RakshathaRani&show_icons=true&theme=github_dark"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakshathaRani&layout=compact&theme=github_dark"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=RakshathaRani&theme=github-dark"/>
+
+</p>
+
+---
+
+# 📫 Contact Me
+
+📧 **Email**
+
+ranirakshatha@gmail.com
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/rakshatha-rani-90a11a2a3/
+
+🌐 **GitHub**
+
+https://github.com/RakshathaRani
+
+---
+
+# 💬 Quote
+
+> *"Continuous learning, consistency, and curiosity drive innovation."*
+
+---
+
+<p align="center">
+
+⭐ Thank you for visiting my GitHub Profile ⭐
+
+If you like my work, feel free to explore my repositories and connect with me on LinkedIn.
+
+</p>
