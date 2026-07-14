@@ -220,13 +220,9 @@ Project guidance provided by **Dr. Anand Ghuli**.
 # 📊 GitHub Statistics
 
 <p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RakshathaRani&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=RakshathaRani&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakshathaRani&layout=compact&theme=github_dark&hide_border=true"/>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakshathaRani&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 ---
@@ -244,11 +240,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakshathaRan
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RakshathaRani&theme=algolia&no-frame=true&row=1&column=6"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=RakshathaRani&theme=onedark&no-frame=true&row=1&column=6"/>
 </p>
-
 ---
 
 # 📫 Connect With Me
