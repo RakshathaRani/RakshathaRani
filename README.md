@@ -36,6 +36,10 @@ SQL | MySQL
 
 Git | GitHub | VS Code
 
+🤖 AI
+
+Machine Learning | Artificial Intelligence  | Prompt Engineering
+
 ---
 
 ## Featured Projects
